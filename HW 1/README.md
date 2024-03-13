@@ -12,7 +12,7 @@ docker-compose -f .\MongoDocker.yml up -d
 ```
 
 <p align="center">
-  <img src="Скриншоты/Docker_запуск_контейнеров.png" alt="Начало работы" width="70%"/>
+  <img src="Скриншоты/Docker_запуск_контейнеров.png" alt="Начало работы" width="80%"/>
   <br>
   <em>Докер с запущенными контейнерами с mongoDB</em>
 </p>
@@ -24,14 +24,14 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image2"></a>
 <p align="center">
-  <img src="Скриншоты/Подключился_по_localhost.png" alt="mongo-express" width="70%"/>
+  <img src="Скриншоты/Подключился_по_localhost.png" alt="mongo-express" width="80%"/>
   <br>
   <em>mongo-express</em>
 </p>
 
   <a id="image3"></a>
 <p align="center">
-  <img src="Скриншоты/Обмазались_монгой.png" alt="MongoDB Compass и mongosh" width="70%"/>
+  <img src="Скриншоты/Обмазались_монгой.png" alt="MongoDB Compass и mongosh" width="80%"/>
   <br>
   <em>MongoDB Compass и mongosh</em>
 </p>
@@ -43,7 +43,7 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image4"></a>
 <p align="center">
-  <img src="Скриншоты/stats.png" alt="Начало работы" width="70%"/>
+  <img src="Скриншоты/stats.png" alt="Начало работы" width="80%"/>
   <br>
   <em>Начало работы</em>
 </p>
@@ -52,7 +52,7 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image5"></a>
 <p align="center">
-  <img src="Скриншоты/1.png" alt="Titanic" width="70%"/>
+  <img src="Скриншоты/1.png" alt="Titanic" width="80%"/>
   <br>
   <em>Titanic</em>
 </p>
@@ -62,7 +62,7 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image6"></a>
 <p align="center">
-  <img src="Скриншоты/2.png" alt="Titanic" width="70%"/>
+  <img src="Скриншоты/2.png" alt="Titanic" width="80%"/>
   <br>
   <em>Информация по БД и вывод одного экземпляра</em>
 </p>
@@ -71,7 +71,7 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image7"></a>
 <p align="center">
-  <img src="Скриншоты/3.png" alt="Знакомство с find и aggregate" width="70%"/>
+  <img src="Скриншоты/3.png" alt="Знакомство с find и aggregate" width="80%"/>
   <br>
   <em>Знакомство с find и aggregate</em>
 </p>
@@ -80,7 +80,7 @@ docker-compose -f .\MongoDocker.yml up -d
 
 <a id="image8"></a>
 <p align="center">
-  <img src="Скриншоты/4.png" alt="Знакомство с find и aggregate" width="70%"/>
+  <img src="Скриншоты/4.png" alt="Знакомство с find и aggregate" width="80%"/>
   <br>
   <em>_id наших данных</em>
 </p>
@@ -99,7 +99,7 @@ db.titanic.find().forEach(document => {
 
 <a id="image9"></a>
 <p align="center">
-  <img src="Скриншоты/5.png" alt="Знакомство с find и aggregate" width="70%"/>
+  <img src="Скриншоты/5.png" alt="Знакомство с find и aggregate" width="80%"/>
   <br>
   <em>Добавление newid</em>
 </p>
@@ -108,14 +108,14 @@ db.titanic.find().forEach(document => {
 
 <a id="image10"></a>
 <p align="center">
-  <img src="Скриншоты/6.png" alt="insertOne" width="70%"/>
+  <img src="Скриншоты/6.png" alt="insertOne" width="80%"/>
   <br>
   <em>insertOne</em>
 </p>
 
 <a id="image11"></a>
 <p align="center">
-  <img src="Скриншоты/7.png" alt="insertMany" width="70%"/>
+  <img src="Скриншоты/7.png" alt="insertMany" width="80%"/>
   <br>
   <em>insertMany</em>
 </p>
@@ -128,14 +128,14 @@ db.titanic.find().forEach(document => {
 
 <a id="image12"></a>
 <p align="center">
-  <img src="Скриншоты/8.png" alt="updateOne" width="70%"/>
+  <img src="Скриншоты/8.png" alt="updateOne" width="80%"/>
   <br>
   <em>UpdateOne</em>
 </p>
 
 <a id="image13"></a>
 <p align="center">
-  <img src="Скриншоты/9.png" alt="replaceOne" width="70%"/>
+  <img src="Скриншоты/9.png" alt="replaceOne" width="80%"/>
   <br>
   <em>ReplaceOne</em>
 </p>
@@ -144,7 +144,7 @@ db.titanic.find().forEach(document => {
 
 <a id="image14"></a>
 <p align="center">
-  <img src="Скриншоты/10.png" alt="Find, sort и limit" width="70%"/>
+  <img src="Скриншоты/10.png" alt="Find, sort и limit" width="80%"/>
   <br>
   <em>Find, sort и limit</em>
 </p>
@@ -153,14 +153,14 @@ db.titanic.find().forEach(document => {
 
 <a id="image15"></a>
 <p align="center">
-  <img src="Скриншоты/11.png" alt="Поиск с использованием регулярного выражения" width="70%"/>
+  <img src="Скриншоты/11.png" alt="Поиск с использованием регулярного выражения" width="80%"/>
   <br>
   <em>Поиск с использованием регулярного выражения и логический оператор and</em>
 </p>
 
 <a id="image16"></a>
 <p align="center">
-  <img src="Скриншоты/12.png" alt="Логический оператор or" width="70%"/>
+  <img src="Скриншоты/12.png" alt="Логический оператор or" width="80%"/>
   <br>
   <em>Логический оператор or</em>
 </p>
@@ -169,7 +169,7 @@ db.titanic.find().forEach(document => {
 
 <a id="image17"></a>
 <p align="center">
-  <img src="Скриншоты/14.png" alt="Удаление элементов" width="70%"/>
+  <img src="Скриншоты/14.png" alt="Удаление элементов" width="80%"/>
   <br>
   <em>Удаление элементов</em>
 </p>
