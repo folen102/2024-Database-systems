@@ -22,17 +22,18 @@ docker-compose -f .\MongoDocker.yml up -d
 , MongoDB Compass и mongosh (см. [рис 3](#image3)).
 
 
-<p align="center">
 <a id="image2"></a>
-  <figure style="display: inline-block; text-align: center; width: 70%;">
-    <img src="Скриншоты/Подключился_по_localhost.png" alt="Описание изображения 1" width="100%"/>
-    <figcaption>mongo-express</figcaption>
-  </figure>
+<p align="center">
+  <img src="Скриншоты/Подключился_по_localhost.png" alt="mongo-express" width="70%"/>
+  <br>
+  <em>Докер с запущенными контейнерами с mongoDB</em>
+</p>
+
   <a id="image3"></a>
-  <figure style="display: inline-block; text-align: center; width: 70%;">
-    <img src="Скриншоты/Обмазались_монгой.png" alt="Описание изображения 2" width="100%"/>
-    <figcaption>MongoDB Compass и mongosh</figcaption>
-  </figure>
+<p align="center">
+  <img src="Скриншоты/Обмазались_монгой.png" alt="MongoDB Compass и mongosh" width="70%"/>
+  <br>
+  <em>MongoDB Compass и mongosh</em>
 </p>
 
 
