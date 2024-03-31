@@ -1,0 +1,340 @@
+{
+  "strings": [
+    {
+      "key": "string_0",
+      "value": "Ipsum occaecat non labore do. Officia culpa reprehenderit aliqua elit cupidatat ex laboris ipsum irure esse exercitation sint. Eiusmod excepteur et eiusmod culpa labore laborum. Duis quis enim anim laborum officia commodo consectetur cillum ipsum officia non. Ullamco est veniam proident voluptate occaecat veniam. Nisi Lorem quis elit pariatur officia incididunt. Elit nostrud culpa minim sit reprehenderit proident quis occaecat et.\r\n"
+    },
+    {
+      "key": "string_1",
+      "value": "Sint id ut laborum id. Nostrud officia excepteur do in cupidatat aute. Nisi id velit ea ex officia ad aliqua ad consequat. Enim nulla est excepteur aliquip dolore. In incididunt adipisicing ullamco magna ea esse magna aliqua quis do.\r\n"
+    },
+    {
+      "key": "string_2",
+      "value": "Pariatur ea in occaecat ipsum cillum veniam laborum nostrud dolore qui sit nostrud mollit irure. Excepteur tempor deserunt nostrud ex amet non ut consectetur voluptate minim sint exercitation occaecat occaecat. Enim ut deserunt esse in nulla eu proident. Anim commodo laborum duis ex esse tempor culpa commodo mollit. Ullamco cillum id sint anim deserunt veniam irure duis. Nisi elit est dolor et pariatur dolor laboris aliquip adipisicing voluptate tempor sunt velit et. Amet nulla in ex duis amet incididunt anim eu anim id amet nisi anim.\r\n"
+    },
+    {
+      "key": "string_3",
+      "value": "Consectetur veniam ad cillum laborum culpa culpa ad duis deserunt Lorem amet ullamco ea. Voluptate ea elit dolor amet proident tempor adipisicing. Pariatur ea exercitation minim elit dolor mollit eu. Lorem nulla minim in sint commodo aliqua. Id officia duis sit nostrud.\r\n"
+    },
+    {
+      "key": "string_4",
+      "value": "Lorem reprehenderit enim ad dolor. Dolor magna aliquip adipisicing aute est nostrud ipsum laborum magna eu. Ullamco enim eiusmod consectetur aute do ad amet id culpa nisi cillum sit consequat. Exercitation reprehenderit dolore commodo mollit consectetur eiusmod minim. Est nisi ex culpa officia esse reprehenderit ex tempor labore duis qui dolor sunt. Ut consequat reprehenderit nulla cillum excepteur. Dolore nisi id culpa exercitation ipsum ex ad ea.\r\n"
+    },
+    {
+      "key": "string_5",
+      "value": "Nostrud labore aliqua esse in ex cillum ad sunt aliqua. Incididunt quis ex fugiat commodo id anim in ad minim voluptate deserunt occaecat dolor. Laboris eiusmod est dolore consectetur cupidatat incididunt id quis nostrud eu.\r\n"
+    },
+    {
+      "key": "string_6",
+      "value": "Non magna velit Lorem ullamco enim irure dolor laboris irure duis id id culpa. Non occaecat in aliqua culpa ad. Et sunt deserunt amet laboris id cupidatat. Nulla ut ut Lorem nisi duis irure labore cillum. Id incididunt sint Lorem est ullamco proident dolor.\r\n"
+    },
+    {
+      "key": "string_7",
+      "value": "Et dolore esse consequat officia commodo excepteur laboris aliqua eu cillum Lorem nulla reprehenderit eu. Minim sint labore consequat mollit proident tempor duis dolore dolor mollit officia ea est. Cupidatat elit minim tempor ad cupidatat sit nostrud ex deserunt eu cillum duis culpa tempor.\r\n"
+    },
+    {
+      "key": "string_8",
+      "value": "Fugiat mollit mollit culpa minim do laborum. Sint et nulla est sit qui labore aliquip do nulla incididunt elit id id. Sint in aliqua fugiat adipisicing.\r\n"
+    },
+    {
+      "key": "string_9",
+      "value": "Sint adipisicing commodo quis minim sint sit ex et. Esse adipisicing sit enim deserunt enim culpa sunt mollit. Eiusmod nisi Lorem fugiat pariatur est amet cupidatat irure fugiat elit elit veniam in incididunt. Amet voluptate excepteur ea in consequat incididunt cillum. Culpa nulla laboris duis do aute reprehenderit fugiat elit duis eiusmod est. Voluptate eiusmod reprehenderit excepteur id in sunt dolore aute eu.\r\n"
+    }
+  ],
+  "hashes": [
+    {
+      "key": "hash_0",
+      "value": {
+        "field1": "anim",
+        "field2": "ex",
+        "field3": "tempor"
+      }
+    },
+    {
+      "key": "hash_1",
+      "value": {
+        "field1": "ea",
+        "field2": "excepteur",
+        "field3": "Lorem"
+      }
+    },
+    {
+      "key": "hash_2",
+      "value": {
+        "field1": "quis",
+        "field2": "laboris",
+        "field3": "voluptate"
+      }
+    },
+    {
+      "key": "hash_3",
+      "value": {
+        "field1": "enim",
+        "field2": "Lorem",
+        "field3": "mollit"
+      }
+    },
+    {
+      "key": "hash_4",
+      "value": {
+        "field1": "nulla",
+        "field2": "minim",
+        "field3": "sunt"
+      }
+    },
+    {
+      "key": "hash_5",
+      "value": {
+        "field1": "culpa",
+        "field2": "minim",
+        "field3": "nulla"
+      }
+    },
+    {
+      "key": "hash_6",
+      "value": {
+        "field1": "culpa",
+        "field2": "deserunt",
+        "field3": "occaecat"
+      }
+    },
+    {
+      "key": "hash_7",
+      "value": {
+        "field1": "officia",
+        "field2": "irure",
+        "field3": "non"
+      }
+    },
+    {
+      "key": "hash_8",
+      "value": {
+        "field1": "nisi",
+        "field2": "sint",
+        "field3": "sit"
+      }
+    },
+    {
+      "key": "hash_9",
+      "value": {
+        "field1": "veniam",
+        "field2": "non",
+        "field3": "aliquip"
+      }
+    }
+  ],
+  "zsets": [
+    {
+      "key": "zset_0",
+      "value": [
+        {
+          "member": "duis",
+          "score": 7
+        },
+        {
+          "member": "fugiat",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "key": "zset_1",
+      "value": [
+        {
+          "member": "labore",
+          "score": 35
+        },
+        {
+          "member": "irure",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "key": "zset_2",
+      "value": [
+        {
+          "member": "ad",
+          "score": 99
+        },
+        {
+          "member": "sunt",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "key": "zset_3",
+      "value": [
+        {
+          "member": "aliqua",
+          "score": 67
+        },
+        {
+          "member": "officia",
+          "score": 15
+        }
+      ]
+    },
+    {
+      "key": "zset_4",
+      "value": [
+        {
+          "member": "Lorem",
+          "score": 44
+        },
+        {
+          "member": "cillum",
+          "score": 7
+        }
+      ]
+    },
+    {
+      "key": "zset_5",
+      "value": [
+        {
+          "member": "mollit",
+          "score": 62
+        },
+        {
+          "member": "enim",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "key": "zset_6",
+      "value": [
+        {
+          "member": "irure",
+          "score": 18
+        },
+        {
+          "member": "nisi",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "key": "zset_7",
+      "value": [
+        {
+          "member": "minim",
+          "score": 99
+        },
+        {
+          "member": "consectetur",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "key": "zset_8",
+      "value": [
+        {
+          "member": "tempor",
+          "score": 88
+        },
+        {
+          "member": "cillum",
+          "score": 12
+        }
+      ]
+    },
+    {
+      "key": "zset_9",
+      "value": [
+        {
+          "member": "laboris",
+          "score": 22
+        },
+        {
+          "member": "commodo",
+          "score": 50
+        }
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "key": "list_0",
+      "value": [
+        "esse",
+        "sit",
+        "minim"
+      ]
+    },
+    {
+      "key": "list_1",
+      "value": [
+        "laborum",
+        "eiusmod",
+        "Lorem"
+      ]
+    },
+    {
+      "key": "list_2",
+      "value": [
+        "mollit",
+        "ex",
+        "Lorem"
+      ]
+    },
+    {
+      "key": "list_3",
+      "value": [
+        "excepteur",
+        "consequat",
+        "esse"
+      ]
+    },
+    {
+      "key": "list_4",
+      "value": [
+        "amet",
+        "in",
+        "anim"
+      ]
+    },
+    {
+      "key": "list_5",
+      "value": [
+        "culpa",
+        "labore",
+        "do"
+      ]
+    },
+    {
+      "key": "list_6",
+      "value": [
+        "aute",
+        "cillum",
+        "labore"
+      ]
+    },
+    {
+      "key": "list_7",
+      "value": [
+        "amet",
+        "adipisicing",
+        "veniam"
+      ]
+    },
+    {
+      "key": "list_8",
+      "value": [
+        "consectetur",
+        "anim",
+        "culpa"
+      ]
+    },
+    {
+      "key": "list_9",
+      "value": [
+        "esse",
+        "ullamco",
+        "adipisicing"
+      ]
+    }
+  ]
+}
