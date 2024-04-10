@@ -3,9 +3,7 @@ Homework and materials for the Database Systems course
 
 ## Отчет CouchDB + PouchDB
 
-### couchdb
-
-Скачиваем с [сайта](https://couchdb.apache.org/#download) програмуу и проверяем, что все работает перейдя по ссылке `http://localhost:5984/` (см. [рис 1](#image1))
+Скачиваем с [сайта](https://couchdb.apache.org/#download) программу и проверяем, что у нас запустился CouchDB по ссылке `http://localhost:5984/` (см. [рис 1](#image1))
 
 <a id="image1"></a>
 <p align="center">
@@ -50,9 +48,9 @@ Homework and materials for the Database Systems course
 
 Затем останавливаем службу `Apache CouchDB` через диспетчер задач, обновляем нашу страницу в браузере и прожимаем **Sync** еще раз, и видим что строчка с нашей фамилией также появилась, не смотря на остановку службы (см. [рис 6](#image6))
 
-<a id="image5"></a>
+<a id="image6"></a>
 <p align="center">
-  <img src="Скриншоты/5.png" alt="Отображение сроки с нашей фамилией после остановки службы" width="90%"/>
+  <img src="Скриншоты/6.png" alt="Отображение сроки с нашей фамилией после остановки службы" width="90%"/>
   <br>
   <em>Отображение сроки с нашей фамилией после остановки службы</em>
 </p>
