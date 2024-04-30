@@ -264,4 +264,26 @@ Netezza может использоваться в Data Mining.
 
 ## o.	Какие сообщества развивают данную СУБД? Кто в проекте имеет права на коммит и создание дистрибутива версий? Расскажите об этих людей и/или компаниях.
 
-Как и говорилось выше, на данный момент все права полностью принадлежат компании IBM, именно она сейчас занимается разработкой и поддержкой СУБД Netezza
+Как и говорилось выше, на данный момент все права полностью принадлежат компании IBM, именно она сейчас занимается разработкой и поддержкой СУБД Netezza.
+
+Также есть сообщество [Netezza Developer Network](https://www.ibm.com/docs/en/psfa/7.2.1?topic=introduction-netezza-developer-network), где разработчики и партнеры участвуют в развитии Netezza.
+
+## p.	Создайте свои собственные данные для демонстрации работы СУБД. 
+
+
+## q.	Как продолжить самостоятельное изучение языка запросов с помощью демобазы. Если демобазы нет, то создайте ее.
+
+## r.	Где найти документацию и пройти обучение
+1. [Официальная документация IBM Netezza](https://www.ibm.com/docs/en/psfa/7.2.1?topic=netezza-database-user-documentation)
+2. [Обучающие курсы IBM Netezza](https://www.ibm.com/training/search?query=netezza)
+3. [Ютуб канал IBM Technology](https://www.youtube.com/@IBMTechnology)
+4. [Курс для новичков по IBM Netezza на ютуб](https://www.youtube.com/playlist?list=PLCNIKwM6iuv5oIiUB9rwHa6ol6tCSRi3L)
+5. [Книга по архитектуре IBM Netezza](https://www.redbooks.ibm.com/redbooks/pdfs/redp4725-00-ru.pdf)
+
+
+## s.	Как быть в курсе происходящего
+
+В последнее время с IBM Netezza мало что происходит, но чтобы быть в курсе событии, то рекомендую смотреть различные форумы и блог:
+
+1. [Форум и сообщество](https://community.ibm.com/community/user/datamanagement/communities/community-home/recent-community-blogs?CommunityKey=d9f9d5de-e89f-4a6a-84a0-31df8b81f182)
+2. [Блог](https://www.ibm.com/blog/tag/netezza/)
