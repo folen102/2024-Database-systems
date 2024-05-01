@@ -285,7 +285,6 @@ Netezza может использоваться в Data Mining.
 ```
 CREATE EXTERNAL TABLE t1_ext (col1 INTEGER, col2 CHAR(20))
 USING (DATAOBJECT('/tmp/t1.unl') DELIMITER ',');
-
 ```
 В этой команде мы указываем формат нашей таблицы и то откуда мы загружаем данные и какой у них разделитель. Посмотри на нашу таблицу командой `select * from t1_ext` (см. [рис 2](#image2)).
 
