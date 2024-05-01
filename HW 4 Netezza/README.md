@@ -326,7 +326,7 @@ USING (DATAOBJECT('/tmp/t1.unl') DELIMITER ',');
 
 ## q.	Как продолжить самостоятельное изучение языка запросов с помощью демобазы. Если демобазы нет, то создайте ее.
 
-В прошлом пункте мы научились подгружать данные в нашу БД. Чтобы продолжить изучение языка запросов Netezza рекомендую посмотреть [документацию](https://www.ibm.com/docs/zh/psfa/7.2.1?topic=documentation-netezza-sql-basics).
+В прошлом пункте мы научились подгружать данные в нашу БД. Чтобы продолжить изучение языка запросов Netezza рекомендую посмотреть [документацию](https://www.ibm.com/docs/zh/psfa/7.2.1?topic=documentation-netezza-sql-basics). Некоторые примеры запросов приведены в пункте d.
 
 ## r.	Где найти документацию и пройти обучение
 1. [Официальная документация IBM Netezza](https://www.ibm.com/docs/en/psfa/7.2.1?topic=netezza-database-user-documentation)
